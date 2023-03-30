@@ -1,5 +1,5 @@
 import React from 'react'
-import Cmd from '../cmd/cmd'
+import Cmd from '../cmd/Command'
 import Files from '../Files/Files'
 import Game from '../game/Game'
 import Kasperskiy from '../kasperskiy/Kasperskiy'
