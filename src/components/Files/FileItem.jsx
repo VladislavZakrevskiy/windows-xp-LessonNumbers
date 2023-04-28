@@ -1,3 +1,4 @@
+//@ts-nocheck
 import React from 'react'
 import fileIco from '../../assets/icons/HelpIcons/WinFile.ico'
 import folderIco from '../../assets/icons/HelpIcons/folder2.ico'

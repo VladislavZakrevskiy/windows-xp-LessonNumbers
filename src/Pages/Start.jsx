@@ -1,3 +1,4 @@
+//@ts-nocheck
 import { Box, Grid, Paper } from '@mui/material'
 import React from 'react'
 import xp from '../assets/interfaceWinXp.jpeg'

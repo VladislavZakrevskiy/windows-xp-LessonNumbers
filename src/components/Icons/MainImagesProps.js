@@ -1,3 +1,4 @@
+//@ts-nocheck
 import Camera from '../../assets/icons/Camera.ico'
 import cmd from '../../assets/icons/cmd.exe.ico'
 import Connection from '../../assets/icons/Connection.ico'

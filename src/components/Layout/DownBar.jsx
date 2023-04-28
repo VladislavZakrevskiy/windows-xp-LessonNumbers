@@ -1,3 +1,4 @@
+//@ts-nocheck
 import {Box, Paper } from '@mui/material'
 import React, { useState } from 'react'
 import menu from '../../assets/win-bottom.png'

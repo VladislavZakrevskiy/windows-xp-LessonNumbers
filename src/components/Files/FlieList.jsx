@@ -1,3 +1,4 @@
+//@ts-nocheck
 import { Box, List, ListItem, Typography } from '@mui/material'
 import React, { useState } from 'react'
 

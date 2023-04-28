@@ -1,3 +1,4 @@
+//@ts-nocheck
 import RestartAlt from '@mui/icons-material/RestartAlt';
 import { Box, Button, Grid, IconButton, List, ListItem } from '@mui/material';
 import { useState } from 'react';

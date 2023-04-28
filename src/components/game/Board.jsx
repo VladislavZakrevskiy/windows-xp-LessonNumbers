@@ -1,3 +1,4 @@
+//@ts-nocheck
 import React from 'react'
 import { calculateWinner } from './Game';
 import Square from './Square';

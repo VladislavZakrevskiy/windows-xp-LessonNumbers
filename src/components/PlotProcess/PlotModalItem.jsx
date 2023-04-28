@@ -1,3 +1,4 @@
+//@ts-nocheck
 import { Avatar, Box, Button, ListItem, Typography } from '@mui/material'
 import React, { useState } from 'react'
 import chatGPT from '../../assets/chatgpt.jpg'

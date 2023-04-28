@@ -1,3 +1,4 @@
+//@ts-nocheck
 import { Box, CircularProgress, Typography } from '@mui/material'
 import React, { useEffect, useState } from 'react'
 import {keyframes} from '@emotion/react'

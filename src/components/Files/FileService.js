@@ -1,3 +1,4 @@
+//@ts-nocheck
 class TreeNode {
     constructor(name, content = [], prev, type) {
       this.name = name

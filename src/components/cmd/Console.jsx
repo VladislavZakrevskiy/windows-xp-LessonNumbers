@@ -1,3 +1,4 @@
+//@ts-nocheck
 import { Box, InputAdornment, TextField, Typography } from '@mui/material'
 import React, { useEffect, useState } from 'react'
 import { useDispatch } from 'react-redux'

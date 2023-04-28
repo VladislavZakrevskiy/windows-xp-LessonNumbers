@@ -1,3 +1,4 @@
+//@ts-nocheck
 import React, { useEffect, useState } from 'react'
 import DownBar from '../components/Layout/DownBar'
 import IconList from '../components/Icons/IconList'

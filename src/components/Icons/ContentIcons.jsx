@@ -1,3 +1,4 @@
+//@ts-nocheck
 import React from 'react'
 import Cmd from '../cmd/Command'
 import Files from '../Files/Files'
